@@ -1,0 +1,5 @@
+{
+  "name": "Rắn Săn Số Nguyên (Math Snake AI)",
+  "description": "Một trò chơi Rắn Săn Mồi kết hợp toán học và AI. Người chơi điều khiển rắn ăn các số nguyên theo thứ tự tăng/giảm dần. AI hỗ trợ gợi ý và giải thích sai lầm.",
+  "requestFramePermissions": []
+}
